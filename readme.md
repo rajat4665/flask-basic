@@ -1,3 +1,4 @@
+![flask basic python](https://github.com/rajat4665/flask-basic/blob/master/flask_basic2.png)
 <h3>Introduction:</h3>
 Flask is a micro web framework written in python. It is well known as a lightweight framework for python web development because it is run on a stand-alone file whereas Django has multiple files for each operation such as URLs, views, and setting.
 <h3>How to install flask  using pip3</h3>
